@@ -4,7 +4,7 @@ INTERN ID:CT04DG1747
 DOMAIN: REACT.JS WEB DEVELOPMENT 
 DURATION: 4 WEEKS 
 MENTOR: NEELA SANTOSH 
-OUTPUT:
+OUTPUT: ![Image](https://github.com/user-attachments/assets/c321348f-0d5f-4e66-802f-84ae0a0b61b4)
 DESCRIPTION: The Movie Finder is a responsive and interactive ReactJS-based web application that allows users to search for movies and explore detailed information including the title, year of release, poster, and more — all fetched in real time using the OMDb API. It also allows users to save their favorite movies, making it a simple yet practical movie browsing experience.
 
 This project was developed as part of a hands-on learning module in ReactJS, designed to enhance practical skills in API integration, component-based architecture, state management, conditional rendering, and user-friendly design. The app demonstrates how to fetch and display external data, update UI dynamically, and handle user interactions effectively.
